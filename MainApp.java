@@ -1,4 +1,4 @@
-package HW4;
+package coffee_shop;
 
 public class MainApp {
 
@@ -8,6 +8,3 @@ public class MainApp {
 		}
 
 	}
-
-
-
