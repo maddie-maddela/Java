@@ -44,7 +44,7 @@ https://github.com/maddies-codespace/Java/blob/9219832a0200fe9585fb4793f37459201
 ![image](https://github.com/maddies-codespace/Java/assets/141537679/4a2435b2-4609-4938-b8bc-03c00f3edb21)
 
 
-There is an option to become a registered user, who is treated as a premium user and offered perks and coupons as a reward for continual patronship.
+There is an option to become a registered user, who is treated as a premium user and offered perks & coupons as a reward for continual patronship.
 
 ![image](https://github.com/maddies-codespace/Java/assets/141537679/f56a4b3a-19db-474c-9f1a-23715f954003)
 
