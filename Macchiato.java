@@ -1,4 +1,4 @@
-package HW4;
+package coffee_shop;
 
 public class Macchiato extends Coffee {
 		private double m1;
