@@ -22,7 +22,7 @@ https://github.com/maddies-codespace/Java/blob/9219832a0200fe9585fb4793f37459201
 
 &nbsp;
 
-Choose among 4 options when you place an order - Espresso, Cappuccino, Latte, and Macchiato. Coffee is the super class from which Espresso, Cappuccino, Latte, and Macchiato inherit. They each override the prepare() method. 
+Choose among 4 options when you place an order - Espresso, Cappuccino, Latte, and Macchiato. Coffee is the super class from which Espresso, Cappuccino, Latte, and Macchiato inherit. They each override the prepare() method from the Coffee class. 
 
 The coffee class and its methods:
 
