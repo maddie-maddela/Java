@@ -1,4 +1,4 @@
-package HW4;
+package coffee_shop;
 
 public class Latte extends Coffee{
 	private double l1;
