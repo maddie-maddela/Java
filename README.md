@@ -1,6 +1,6 @@
 # Java
 
-This is the webpage of a simplified coffee shop.
+This is a simplified version of a webpage for a coffee shop.
 
 ![image](https://github.com/maddies-codespace/Java/assets/141537679/05bd4001-2df5-4a06-8c83-7069cca500d4)
 
