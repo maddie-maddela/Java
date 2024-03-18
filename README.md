@@ -1,6 +1,7 @@
 # Java
 
 This is the webpage of a simplified coffee shop.
+
 ![image](https://github.com/maddies-codespace/Java/assets/141537679/05bd4001-2df5-4a06-8c83-7069cca500d4)
 
 Here is the code for the main app:
