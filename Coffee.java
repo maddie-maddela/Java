@@ -1,4 +1,4 @@
-package HW4;
+package coffee_shop;
 
 public abstract class Coffee {
 	private double espresso_shot;
