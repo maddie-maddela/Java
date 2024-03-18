@@ -1,4 +1,4 @@
-package HW4;
+package coffee_shop;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
